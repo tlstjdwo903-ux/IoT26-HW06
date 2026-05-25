@@ -1,0 +1,12 @@
+{
+    "name": "hw6-1",
+    "description": "번호판 인식 Node-RED 프로젝트 (rpicam-jpeg + Flask 연동)",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
